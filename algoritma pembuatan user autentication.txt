@@ -1,0 +1,31 @@
+				ALGORITMA PEMBUATAN USER AUTHENTICATION DI MEN
+	//setup dahulu node nya
+	//instal pcakgae yang dibutuhkan
+	//import package yang dibutuhkan ke app.js
+	//buat routes controoler
+	//connectan dengan databases
+	//buat schema nya
+	//jalankan project 
+	
+			ALGORITMA pembuatan login nya
+	//kalo ada tampilkan user berdasarkan email/name
+	//kalo ga ada tampilkan pesan errornya
+	//jika user tidak tersedia 
+		//tampilkan pesan erornya  juga
+	//jika user ada compare password nya udah di ubah ke bacaan random ke bacaan semula
+	//jika password nya ga sama
+		//maka tampilkan pesan errornya lagi
+	//kalo berhasil login ,return  status nya
+		//tampilkan pesan sukses nya
+
+
+form login react
+		//siapkan state kosongnya
+//lalu atur state nya berdasarkan value
+//buat fungsi handlesubmit
+	//fect api menggunakan axios/vanila 
+	// jika berhasil login atur kembali password dan name nya menjadi kosong
+	//dan pindah halaman ke dashboard/blog/dsb
+	//selain dari itu tampilkan pesan kesalahnyannya
+
+

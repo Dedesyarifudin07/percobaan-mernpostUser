@@ -1,0 +1,9 @@
+				ALGORITMA PEMBUATAN USER AUTHENTICATION DI MEN
+	//setup dahulu node nya
+	//instal pcakgae yang dibutuhkan
+	//import package yang dibutuhkan ke app.js
+	//buat routes controoler
+	//connectan dengan databases
+	//buat schema nya
+	//jalankan project 
+	
